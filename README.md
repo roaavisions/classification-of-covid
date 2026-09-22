@@ -2,18 +2,14 @@
 
 ## 📌 Project Overview
 
-This project focuses on the automated classification of COVID-19 from chest X-ray images using Deep Learning and Transfer Learning techniques.
+This project applies Deep Learning and Transfer Learning techniques to classify COVID-19 using chest X-ray images.
 
-The main objective is to develop a deep learning model capable of analyzing chest X-ray images and classifying them into relevant diagnostic categories. Transfer Learning is utilized to leverage knowledge from pre-trained deep neural networks, helping improve model performance while reducing the time and computational resources required for training.
+The project covers data preprocessing, model training, image classification, and performance evaluation using Python and Deep Learning tools.
 
-This project demonstrates the application of Artificial Intelligence and Deep Learning in medical image classification, covering key stages including data preprocessing, image augmentation, model development, training, evaluation, and performance analysis.
-
-### 🛠️ Technologies & Tools
+### 🛠️ Technologies
 
 - Python
+- TensorFlow / Keras
 - Deep Learning
 - Transfer Learning
-- TensorFlow / Keras
 - Image Processing
-- Data Preprocessing
-- Model Evaluation
