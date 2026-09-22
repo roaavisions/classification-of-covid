@@ -45,3 +45,9 @@ The project follows these main steps:
 3. Model training
 4. Model evaluation
 5. Performance analysis
+   
+   📄 Project Paper
+
+For detailed information about the dataset, methodology, model architectures, training process, evaluation metrics, and experimental results, please refer to the project paper.
+
+📑 Read the Full Paper: [http://journals.uofg.edu.sd/index.php/gjeas/article/view/2161/1775]
